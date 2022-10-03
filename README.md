@@ -1,8 +1,9 @@
 # Test-Cases-Case.io-
-Requirements analysis and test documentation												
+Requirements analysis and test documentation
+
 Задание 1												
-В рамках курса мы будем тестировать ряд ресурсов и создавать тестовую документацию для них. Первый на очереди вы можете найти здесь https://demo.guru99.com/telecom/index.html												
-Вот требования для 1ой версии приложения. Не обращайте внимание на другие реализованные функции.	
+https://demo.guru99.com/telecom/index.html												
+Вот требования для 1ой версии приложения. 
 
 **Главная страница**
 
