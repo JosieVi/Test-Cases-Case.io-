@@ -6,15 +6,16 @@
 [Homework-1](https://github.com/JosieVi/Test-Suites-and-Test-Cases/blob/main/Homework-1.pdf)
 
 ## Homework-2
-Напишите тестовые кейсы для тестирования API запросов коллекции для 4 методов из блока store: https://petstore.swagger.io/#/store/placeOrder\
+Напишите тестовые кейсы для тестирования API запросов коллекции для 4 методов из блока store: https://petstore.swagger.io/#/store/placeOrder
+\
 <b>Результат выполнения задания:</b>\
-[Homework-2](https://github.com/JosieVi/Checklists/blob/main/Homework-2.pdf)\
-[Или Google Диск](https://docs.google.com/spreadsheets/d/1U2-QOqwjSa5a_JUMo50xEAfwhsmjokHxvaiPEJ-HezE/edit?usp=sharing)
+[Homework-2](https://github.com/JosieVi/Checklists/blob/main/Homework-2.pdf) или [Google Диск](https://docs.google.com/spreadsheets/d/1U2-QOqwjSa5a_JUMo50xEAfwhsmjokHxvaiPEJ-HezE/edit?usp=sharing)
 
 ## Homework-3											
 1. Необходимо проанализировать требования, указанные ниже. Все несоответствия и дополнительные вопросы по ним внести в новую таблицу.
-2. Необходимо составить тест кейсы на функциональность Add Customer (в QASE) по ссылке https://demo.guru99.com/telecom/index.html												
-\
+2. Необходимо составить тест кейсы на функциональность Add Customer в TMS QASE по ссылке https://demo.guru99.com/telecom/index.html												
+
+
 <b>Результат выполнения задания:</b>\
 [Homework-3.1](https://github.com/JosieVi/Checklists/blob/main/Homework-3.1.pdf)
 или [Google Диск](https://docs.google.com/spreadsheets/d/18OX-cD6kwX9pq_J-IxspmPUtVl6lQsJxb3jfyMwtG2E/edit#gid=0)\
