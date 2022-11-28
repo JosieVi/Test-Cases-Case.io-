@@ -9,7 +9,8 @@
 Напишите тестовые кейсы для тестирования API запросов коллекции для 4 методов из блока store: https://petstore.swagger.io/#/store/placeOrder
 \
 <b>Результат выполнения задания:</b>\
-[Google Диск](https://docs.google.com/spreadsheets/d/1U2-QOqwjSa5a_JUMo50xEAfwhsmjokHxvaiPEJ-HezE/edit?usp=sharing)
+[Homework-2](https://github.com/JosieVi/Test-Suites-and-Test-Cases/blob/main/Homework-2.pdf)
+или [Google Диск](https://docs.google.com/spreadsheets/d/1U2-QOqwjSa5a_JUMo50xEAfwhsmjokHxvaiPEJ-HezE/edit?usp=sharing)
 
 ## Homework-3											
 1. Необходимо проанализировать требования, указанные ниже. Все несоответствия и дополнительные вопросы по ним внести в новую таблицу.
